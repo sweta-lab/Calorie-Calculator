@@ -4,7 +4,6 @@ the number of calories in an image of your food.
 
 Input:
 ![image](https://github.com/sweta-lab/Calorie-Calculator/assets/61554410/0234e550-1e0b-4d3b-9073-77b23c065b0e)
-
 ![image](https://github.com/sweta-lab/Calorie-Calculator/assets/61554410/4e0cd1cc-cbb6-4cec-9517-61d46241e90f)
 
 Output:
