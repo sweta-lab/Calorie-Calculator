@@ -1,5 +1,5 @@
 # Calorie-Calculator
-A Streamlit web app that uses Google's Vertex AI API (Gemini Pro Vision) to calculate
+A Streamlit web app that uses Google's Vertex AI API (Gemini's Pro Vision Model) to calculate
 the number of calories in an image of your food.
 
 Input:
